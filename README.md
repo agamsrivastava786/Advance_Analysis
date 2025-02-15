@@ -23,4 +23,4 @@ This project aims to gain insights into Wipro's stock performance through a comb
 
 **Dataset:**
 
-The Wipro stock dataset used in this project was sourced from Kaggle.  (Provide a link to the Kaggle dataset if possible).
+The Wipro stock dataset used in this project was sourced from Kaggle.  ([Link for dataset](https://www.kaggle.com/datasets/thebrownviking20/wipro)).
